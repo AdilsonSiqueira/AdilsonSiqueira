@@ -1,16 +1,23 @@
-## Hi there 👋
+github.com/AdilsonSiqueira
 
-<!--
-**AdilsonSiqueira/AdilsonSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📷 Foto
 
-Here are some ideas to get you started:
+Adilson Siqueira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Segurança da Informação | Segurança Ofensiva | Python | Rust | Linux
+
+--------------------------------------------------------
+
+👋 Olá, eu sou Adilson
+
+Profissional de Segurança da Informação...
+
+🚀 WebPathScan
+
+🛠 Tecnologias
+
+📊 Estatísticas
+
+🔥 GitHub Streak
+
+📫 Contato
