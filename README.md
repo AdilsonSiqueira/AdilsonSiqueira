@@ -2,11 +2,7 @@
 
 ## Eu sou Adilson Siqueira
 
-💻 Profissional de **Segurança da Informação**.
-
-🔐 Atuo com **Segurança Web, Segurança Ofensiva e desenvolvimento de ferramentas voltadas para automação de testes de segurança**.
-
-🚀 Atualmente desenvolvendo o **WebPathScan**, uma ferramenta para identificação de arquivos e diretórios comuns em diferentes CMS e aplicações Web, auxiliando processos de reconhecimento em ambientes de segurança.
+💻 Profissional de **Segurança da Informação**. Bug Bounty
 
 ---
 
