@@ -40,32 +40,6 @@
 
 ---
 
-### 🚀 Projeto em destaque
-
-## 🔎 WebPathScan
-
-Ferramenta desenvolvida em Python para identificação de arquivos e diretórios comuns em diferentes CMS e aplicações Web, auxiliando atividades de reconhecimento durante avaliações de segurança.
-
----
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdilsonSiqueira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdilsonSiqueira&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdilsonSiqueira&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 ### 🌐 Contato
 
 <a href="https://www.linkedin.com/">
