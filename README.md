@@ -81,5 +81,5 @@ Seu apoio ajuda com custos de infraestrutura, estudos, ferramentas e desenvolvim
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
----
-<img src="https://komarev.com/ghpvc/?username=AdilsonSiqueira&style=for-the-badge&label=%F0%9F%94%93%20DECRYPTING%20VISITS&color=111111" alt="Profile views">
+---s">
+<img src="https://komarev.com/ghpvc/?username=AdilsonSiqueira&style=for-the-badge&label=%F0%9F%94%90%20ACCESS%20COUNT&color=0e75b6" alt="Profile views">
