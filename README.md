@@ -28,21 +28,6 @@
 
 ---
 
-### 🎯 Áreas de interesse
-
-- Segurança da Informação
-- Segurança Web
-- Segurança Ofensiva
-- Pentest
-- Bug Bounty
-- Desenvolvimento de Ferramentas
-- Automação de Segurança
-- Python
-- Rust
-- Linux
-
----
-
 ### 🚀 Projetos em desenvolvimento
 
 🔎 **WebPathScan**
