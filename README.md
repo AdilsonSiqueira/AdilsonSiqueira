@@ -82,7 +82,4 @@ Seu apoio ajuda com custos de infraestrutura, estudos, ferramentas e desenvolvim
 </a>
 
 ---
-
-⭐ Obrigado por visitar meu perfil!
-
-<img src="https://komarev.com/ghpvc/?username=AdilsonSiqueira&color=blue&style=for-the-badge&label=Visualizações+do+perfil" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=AdilsonSiqueira&style=for-the-badge&label=%F0%9F%94%90%20ACCESS%20COUNT&color=0e75b6" alt="Profile views">
