@@ -28,14 +28,6 @@
 
 ---
 
-### 🚀 Projetos em desenvolvimento
-
-🔎 **WebPathScan**
-
-Ferramenta desenvolvida em Python para identificação de arquivos e diretórios comuns em CMS e aplicações Web, auxiliando atividades de reconhecimento durante avaliações de segurança.
-
----
-
 ### ☕ Apoie meus projetos
 
 Meus projetos são desenvolvidos de forma independente.
