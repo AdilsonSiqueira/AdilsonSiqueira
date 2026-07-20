@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## Eu sou Adilson Siqueira
+## Eu sou Adilson
 
 💻 Profissional de **Segurança da Informação**. Bug Bounty
 
