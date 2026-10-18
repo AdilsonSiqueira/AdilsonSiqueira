@@ -6,6 +6,16 @@
 
 ---
 
+### 🚧 Projeto em desenvolvimento: Juba SO
+
+Estou desenvolvendo o **Juba SO**, um sistema operacional independente para x86-64, com kernel próprio e foco em segurança, desempenho e facilidade de uso.
+
+O projeto está em fase inicial de desenvolvimento. Neste momento, o trabalho está concentrado na base do kernel, inicialização e gerenciamento de memória. Ainda não é um sistema pronto para uso diário.
+
+O Juba SO é um projeto proprietário; o código-fonte permanece privado durante o desenvolvimento. Pretendo compartilhar novidades e marcos técnicos por aqui conforme forem sendo validados.
+
+---
+
 ### 🛠 Tecnologias
 
 <div style="display: inline_block"><br>
